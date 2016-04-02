@@ -1,0 +1,6 @@
+#Blacklist everything
+*
+#Whitelist .gitignore
+!.gitignore
+#Whitelist .py file
+!*.py
